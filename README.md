@@ -8,7 +8,7 @@ The goal is to **sharpen problem-solving skills, write clean code, and build con
 ---
 
 
-##🚀 Goals
+## 🚀 Goals
 - ✅ Practice Python daily
 - ✅ Improve problem-solving & algorithmic thinking
 - ✅ Write clean, efficient, and well-documented code
@@ -16,7 +16,7 @@ The goal is to **sharpen problem-solving skills, write clean code, and build con
 
 ---
 
-##📅 Progress Tracker
+## 📅 Progress Tracker
 | Day | Problem | Status |
 |-----|----------|---------|
 | 01  | Merge Intervals | ✅ Completed |
