@@ -20,7 +20,8 @@ The goal is to **sharpen problem-solving skills, write clean code, and build con
 | Day | Problem | Status |
 |-----|----------|---------|
 | 01  | Merge Intervals | ✅ Completed |
-| 02  | Insert Intervals | ⏳ In Progress |
+| 02  | Insert Intervals | ✅ Completed |
+| 03  | Find First and Last Position of Element in Sorted Array | ⏳ In Progress |
 
 
 ## 🤝 Contribution
