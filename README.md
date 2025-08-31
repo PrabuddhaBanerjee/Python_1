@@ -21,7 +21,8 @@ The goal is to **sharpen problem-solving skills, write clean code, and build con
 |-----|----------|---------|
 | 01  | Merge Intervals | ✅ Completed |
 | 02  | Insert Intervals | ✅ Completed |
-| 03  | Find First and Last Position of Element in Sorted Array | ⏳ In Progress |
+| 03  | Find First and Last Position of Element in Sorted Array | ✅ Completed |
+| 04  | Longest Consecutive Sequence | ⏳ In Progress |
 
 
 ## 🤝 Contribution
