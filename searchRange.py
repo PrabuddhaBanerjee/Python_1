@@ -21,6 +21,8 @@ class Solution(object):
         :type nums: List[int]
         :type target: int
         :rtype: List[int]
+
+        
         """
         # Time Complexity = O(log N)
         left = self.binSearch(nums, target, True)
