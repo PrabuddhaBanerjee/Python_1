@@ -24,7 +24,8 @@ The goal is to **sharpen problem-solving skills, write clean code, and build con
 | 03  | Find First and Last Position of Element in Sorted Array | ✅ Completed |
 | 04  | Longest Consecutive Sequence | ✅ Completed |
 | 05  | Longest Substring Without Repeating Characters | ✅ Completed |
-| 06  | Longest Palindromic Substring | ⏳ In Progress |
+| 06  | Longest Palindromic Substring | ✅ Completed |
+| 07  | Clone Graph | ⏳ In Progress |
 
 
 ## 🤝 Contribution
