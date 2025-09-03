@@ -23,7 +23,8 @@ The goal is to **sharpen problem-solving skills, write clean code, and build con
 | 02  | Insert Intervals | ✅ Completed |
 | 03  | Find First and Last Position of Element in Sorted Array | ✅ Completed |
 | 04  | Longest Consecutive Sequence | ✅ Completed |
-| 05  | Longest Substring Without Repeating Characters | ⏳ In Progress |
+| 05  | Longest Substring Without Repeating Characters | ✅ Completed |
+| 06  | Longest Palindromic Substring | ⏳ In Progress |
 
 
 ## 🤝 Contribution
