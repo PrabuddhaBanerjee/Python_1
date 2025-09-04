@@ -25,7 +25,8 @@ The goal is to **sharpen problem-solving skills, write clean code, and build con
 | 04  | Longest Consecutive Sequence | ✅ Completed |
 | 05  | Longest Substring Without Repeating Characters | ✅ Completed |
 | 06  | Longest Palindromic Substring | ✅ Completed |
-| 07  | Clone Graph | ⏳ In Progress |
+| 07  | Clone Graph | ✅ Completed |
+| 08  | Palindromic Substrings | ⏳ In Progress |
 
 
 ## 🤝 Contribution
