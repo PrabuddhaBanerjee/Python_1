@@ -26,8 +26,10 @@ The goal is to **sharpen problem-solving skills, write clean code, and build con
 | 05  | Longest Substring Without Repeating Characters | ✅ Completed |
 | 06  | Longest Palindromic Substring | ✅ Completed |
 | 07  | Clone Graph | ✅ Completed |
-| 08  | Palindromic Substrings | ⏳ In Progress |
-
+| 08  | Palindromic Substrings | ✅ Completed |
+| 09  | Container With Most Water | ✅ Completed |
+| 10  | Maximum Tastiness of Candy Basket | ⏳ In Progress |
+| 11  | Word Break | ✅ Completed |
 
 ## 🤝 Contribution
 
