@@ -28,8 +28,9 @@ The goal is to **sharpen problem-solving skills, write clean code, and build con
 | 07  | Clone Graph | ✅ Completed |
 | 08  | Palindromic Substrings | ✅ Completed |
 | 09  | Container With Most Water | ✅ Completed |
-| 10  | Maximum Tastiness of Candy Basket | ⏳ In Progress |
-| 11  | Word Break | ✅ Completed |
+| 10  | Word Break | ✅ Completed |
+| 11  | Maximum Tastiness of Candy Basket | ✅ Completed |
+| 12  | Reorder List | ⏳ In Progress |
 
 ## 🤝 Contribution
 
