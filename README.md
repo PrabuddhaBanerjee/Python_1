@@ -30,7 +30,9 @@ The goal is to **sharpen problem-solving skills, write clean code, and build con
 | 09  | Container With Most Water | ✅ Completed |
 | 10  | Word Break | ✅ Completed |
 | 11  | Maximum Tastiness of Candy Basket | ✅ Completed |
-| 12  | Reorder List | ⏳ In Progress |
+| 12  | Sum of Two Integers | ✅ Completed |
+| 13  | Product of Array Except Self | ✅ Completed |
+| 14  | Reorder List | ⏳ In Progress |
 
 ## 🤝 Contribution
 
