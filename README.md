@@ -32,7 +32,8 @@ The goal is to **sharpen problem-solving skills, write clean code, and build con
 | 11  | Maximum Tastiness of Candy Basket | ✅ Completed |
 | 12  | Sum of Two Integers | ✅ Completed |
 | 13  | Product of Array Except Self | ✅ Completed |
-| 14  | Reorder List | ⏳ In Progress |
+| 14  | Lowest Common Ancestor of a Binary Search Tree | ✅ Completed |
+| 15  | Reorder List | ⏳ In Progress |
 
 ## 🤝 Contribution
 
