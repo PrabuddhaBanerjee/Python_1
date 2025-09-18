@@ -34,7 +34,7 @@ The goal is to **sharpen problem-solving skills, write clean code, and build con
 | 13  | Product of Array Except Self | ✅ Completed |
 | 14  | Lowest Common Ancestor of a Binary Search Tree | ✅ Completed |
 | 15  | Construct Binary Tree from Preorder and Inorder Traversal | ✅ Completed |
-| 15  | Kth Smallest Element in a BST | ⏳ In Progress |
+| 15  | Kth Smallest Element in a BST | ✅ Completed |
 | 16  | Reorder List | ⏳ In Progress |
 
 ## 🤝 Contribution
