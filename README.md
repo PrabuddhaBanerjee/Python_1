@@ -36,7 +36,8 @@ The goal is to **sharpen problem-solving skills, write clean code, and build con
 | 15  | Construct Binary Tree from Preorder and Inorder Traversal | ✅ Completed |
 | 16  | Kth Smallest Element in a BST | ✅ Completed |
 | 17  | Binary Tree Level Order Traversal | ✅ Completed |
-| 18  | Reorder List | ⏳ In Progress |
+| 18  | Longest Common Subsequence | ✅ Completed |
+| 19  | Reorder List | ⏳ In Progress |
 
 ## 🤝 Contribution
 
